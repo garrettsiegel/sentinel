@@ -2,6 +2,14 @@
 
 Universal AI agent security scanner — orchestrates a team of 6 specialist security agents to produce comprehensive security assessments.
 
+## Install
+
+```
+npx create-sentinel-security
+```
+
+This copies the Sentinel agents into your project's `.github/agents/` directory.
+
 ## What It Does
 
 Sentinel scans AI agent definitions, rules, skills, and instruction files for security vulnerabilities. It works with ANY AI tool — Claude Code, Cursor, Windsurf, GitHub Copilot, OpenClaw, Aider, Gemini, OpenCode, GitLab Duo, MCP servers, and more. Each scan produces a graded security assessment with actionable remediation guidance.

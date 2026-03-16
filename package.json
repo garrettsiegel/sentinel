@@ -1,0 +1,27 @@
+{
+  "name": "create-sentinel-security",
+  "version": "1.0.0",
+  "description": "Install Sentinel AI agent security scanner into your GitHub Copilot project",
+  "bin": {
+    "create-sentinel-security": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    ".github/agents/"
+  ],
+  "keywords": [
+    "ai",
+    "agent",
+    "security",
+    "scanner",
+    "copilot",
+    "github-copilot",
+    "sentinel"
+  ],
+  "author": "garrettsiegel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettsiegel/sentinel.git"
+  }
+}
