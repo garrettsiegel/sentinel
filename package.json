@@ -1,13 +1,13 @@
 {
   "name": "create-sentinel-security",
-  "version": "1.0.0",
-  "description": "Install Sentinel AI agent security scanner into your GitHub Copilot project",
+  "version": "1.1.0",
+  "description": "Install Sentinel AI agent security scanner into GitHub Copilot, Claude Code, Cursor, Windsurf, Codex, Cline, Aider, Gemini CLI, Crush, Roo Code, Amazon Q Developer, Amp, and Continue.dev projects",
   "bin": {
     "create-sentinel-security": "./bin/cli.js"
   },
   "files": [
     "bin/",
-    ".github/agents/"
+    "platforms/"
   ],
   "keywords": [
     "ai",
@@ -16,6 +16,18 @@
     "scanner",
     "copilot",
     "github-copilot",
+    "claude-code",
+    "cursor",
+    "windsurf",
+    "codex",
+    "cline",
+    "aider",
+    "gemini",
+    "crush",
+    "roo-code",
+    "amazon-q",
+    "amp",
+    "continue",
     "sentinel"
   ],
   "author": "garrettsiegel",
